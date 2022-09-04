@@ -1,0 +1,6 @@
+.idea
+config/.env
+config/info.js
+client/cache
+npm update.cmd
+node_modules

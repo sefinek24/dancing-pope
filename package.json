@@ -1,0 +1,33 @@
+{
+  "name": "dancing-pope",
+  "version": "1.0.0",
+  "description": "The pope is dancing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "up": "ncu -u && npm install && npm update && npm audit fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefinek24/dancing-pope.git"
+  },
+  "keywords": [
+    "pope",
+    "papiez",
+    "polak",
+    "jp2"
+  ],
+  "author": "Sefinek <contact@sefinek.fun>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sefinek24/dancing-pope/issues"
+  },
+  "homepage": "https://github.com/sefinek24/dancing-pope#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "helmet": "^6.0.0",
+    "morgan": "^1.10.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
