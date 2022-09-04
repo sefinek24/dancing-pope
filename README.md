@@ -3,5 +3,5 @@
     <h1>Dancing pope (Jan Paweł 2)</h1>
 </div>
 
-Dancing pope in your browser <img src="public/image/favicon.png" height="14" alt="Favicon">
+Dancing pope in your web browser :D <img src="public/image/favicon.png" height="14" alt="Favicon"> 
 
