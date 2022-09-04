@@ -1,11 +1,11 @@
 module.exports = {
 	apps: [{
-		name            : 'papiez-tanczy',
+		name            : 'dancing-pope',
 		script          : './index.js',
 
 		log_date_format : 'HH:mm:ss, DD.MM.YYYY',
-		error_file      : '/home/ubuntu/logs/www/papiez-tanczy/error.log',
-		out_file        : '/home/ubuntu/logs/www/papiez-tanczy/out.log',
+		error_file      : '/home/ubuntu/logs/www/dancing-pope/error.log',
+		out_file        : '/home/ubuntu/logs/www/dancing-pope/out.log',
 
 		max_restarts          : 7,
 		restart_delay         : 7000,
