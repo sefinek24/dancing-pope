@@ -5,4 +5,4 @@
 
 Dancing pope in your web browser :D <img src="public/image/favicon.png" height="14" alt="Favicon"> 
 
-https://jp2.sefinek.fun
+https://jp2.sefinek.net
