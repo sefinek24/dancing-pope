@@ -1,6 +1,6 @@
 {
   "name": "jp2.sefinek.net",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The pope is dancing",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "helmet": "^6.0.1",
+    "helmet": "^6.1.5",
     "morgan": "^1.10.0",
     "serve-favicon": "^2.5.0"
   }
